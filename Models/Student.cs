@@ -8,5 +8,6 @@ namespace DevopsDemo.Models
         public string? Name { get; set; }
         public String? Course { get; set; }
         public int Age { get; set; }
+        public string? DeptName { get; set; }
     }
 }
